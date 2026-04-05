@@ -16,8 +16,7 @@ In order to determine if the program is correctly implemented, you will need to 
 
 ## 2. Author
 
-**[Your Name]**
-GitHub Repository: `https://github.com/[your-username]/hw-06b`
+**Hala Basyouni**
 
 ---
 
@@ -186,14 +185,3 @@ Same test set executed against the **corrected Triangle.py** after all 5 bugs we
 | Defects Fixed | 0 | 5 |
 
 **Test sufficiency strategy:** Testing was considered complete when (1) every output equivalence class had at least 3 test cases, (2) all boundary conditions were exercised, (3) all 3 argument positions were covered for symmetric cases, and (4) all invalid input types were represented. No new failure categories were being discovered, indicating adequate coverage.
-
----
-
-## 9. GitHub Repository
-
-Repository name: `hw-06b`
-URL: `https://github.com/[your-username]/hw-06b`
-
-Files committed:
-- `Triangle.py` (original committed first, then fixed version committed after Part 2)
-- `TestTriangle.py` (expanded test suite)
